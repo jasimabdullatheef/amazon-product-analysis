@@ -29,6 +29,4 @@ This project analyzes Amazon product data to understand pricing, discounts, and 
 * sales_analysis.ipynb
 * sales_dataset.csv
 
-## 📊 Visualizations
 
-![Heatmap](images/heatmap.png)
